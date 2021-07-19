@@ -1,6 +1,6 @@
 <?php
 
-$nome = "Teste";
+$nome = "Teste novo:";
 
 echo $nome;
 
