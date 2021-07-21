@@ -1,7 +1,7 @@
 <?php
 
-$nome = "Teste";
+$nome = "teste";
 
-echo $nome;
+var_dump($nome);
 
 ?>
